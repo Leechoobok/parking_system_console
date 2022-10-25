@@ -1,0 +1,7 @@
+﻿  Parking_system.c
+C:\Users\Disze\source\repos\Parking_system\Parking_system\Parking_system.c(11,31): warning C4101: 'into_ptime' :참조되지 않은 지역 변수입니다.
+  leave_parking.c
+C:\Users\Disze\source\repos\Parking_system\Parking_system\leave_parking.c(2,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+  rete_check.c
+  코드를 생성하고 있습니다...
+  Parking_system.vcxproj -> C:\Users\Disze\source\repos\Parking_system\x64\Debug\Parking_system.exe
